@@ -1,4 +1,5 @@
 # botman-starter
+
 A basic project ready-to-use of chatbot Botman Studio running inside a Docker container. You can get more infomation in <https://botman.io>.
 
 ## How to use
@@ -27,4 +28,4 @@ Send "hi" to the chatbot and he must reply. Send "start conversation" to a inter
 
 All modifications made into the code inside the `app_botman` directory in the host computer will reflect immediately in the running application inside container.
 
-Para mais informações sobre a programação do chatbot acesse a documentação do BotMan em <https://botman.io/2.0/welcome>.
+For more information about programming the chatbot access the BotMan's documentation in <https://botman.io/2.0/welcome>.
