@@ -1,0 +1,11 @@
+version: "3.3"
+
+services:
+  botman-starter:
+    container_name: botman-starter
+    build: ./docker
+    restart: unless-stopped
+    ports:
+      - '80:80'
+    volumes:
+      - ./app_botman:/app
