@@ -1,6 +1,6 @@
 # botman-starter
 
-A basic project ready-to-use of chatbot Botman Studio running inside a Docker container. You can get more infomation in <https://botman.io>.
+A basic project ready-to-use of chatbot BotMan Studio running inside a Docker container. You can get more infomation in <https://botman.io>.
 
 ## How to use
 
