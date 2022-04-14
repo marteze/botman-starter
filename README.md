@@ -20,6 +20,8 @@ A basic project ready-to-use of chatbot BotMan Studio running inside a Docker co
 From now you can access <http://localhost/botman/tinker> to verify if the application is running correctly.<br>
 Send "hi" to the chatbot and he must reply. Send "start conversation" to a interactive conversation.
 
+![image](https://user-images.githubusercontent.com/8368009/163384588-6ea81119-f74e-4a03-9312-8bc8b4044fc8.png)
+
 ## Programming the chatbot
 
 All modifications made into the code inside the `app_botman` directory in the host computer will reflect immediately in the running application inside container.
